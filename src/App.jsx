@@ -4,28 +4,28 @@ import Container from './components/Container'
 function App() {
   const values = [
     {
-      imageUrl: "../public/assets/icon-reaction.svg", 
+      imageUrl: "/public/assets/icon-reaction.svg", 
       text: "Reaction",
       value: 80,
       color: "#ff575710",
       textColor: "#ff5757",
     },
     {
-      imageUrl: "../public/assets/icon-memory.svg",
+      imageUrl: "/public/assets/icon-memory.svg",
       text: "Memory",
       value: 92,
       color: "#ffb01f10",
       textColor: "#ffb01f"
     },
     {
-      imageUrl: "../public/assets/icon-verbal.svg",
+      imageUrl: "/public/assets/icon-verbal.svg",
       text: "Verbal",
       value: 61,
       color: "#00bd9110",
       textColor: "#00bd91"
     },
     {
-      imageUrl: "../public/assets/icon-visual.svg",
+      imageUrl: "/public/assets/icon-visual.svg",
       text: "Visual",
       value: 73,
       color: "#1125d410",
