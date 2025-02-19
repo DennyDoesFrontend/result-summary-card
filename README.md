@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/images/summary-card.png)
+![](./public/summary-card.png)
 
 ### Links
 
