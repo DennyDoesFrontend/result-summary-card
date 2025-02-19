@@ -4,34 +4,35 @@ import Container from './components/Container'
 function App() {
   const values = [
     {
-      imageUrl: "../src/assets/images/icon-reaction.svg",
+      imageUrl: "/assets/images/icon-reaction.svg", // No need for "../src/"
       text: "Reaction",
       value: 80,
       color: "#ff575710",
       textColor: "#ff5757",
     },
     {
-      imageUrl: "../src/assets/images/icon-memory.svg",
+      imageUrl: "/assets/images/icon-memory.svg",
       text: "Memory",
       value: 92,
       color: "#ffb01f10",
       textColor: "#ffb01f"
     },
     {
-      imageUrl: "../src/assets/images/icon-verbal.svg",
+      imageUrl: "/assets/images/icon-verbal.svg",
       text: "Verbal",
       value: 61,
       color: "#00bd9110",
       textColor: "#00bd91"
     },
     {
-      imageUrl: "../src/assets/images/icon-visual.svg",
+      imageUrl: "/assets/images/icon-visual.svg",
       text: "Visual",
       value: 73,
       color: "#1125d410",
       textColor: "#1125d4"
     },
-  ]
+  ];
+  
 
   return (
 <div className='absolute bg-white top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] shadow-lg h-full md:h-auto sm:rounded-4xl overflow-hidden flex flex-col max-sm:w-full w-auto sm:flex-row'>
