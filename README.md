@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/DennyDoesFrontend/result-summary-card)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://result-summary-card-inky.vercel.app/)
 
 ## My process
 
