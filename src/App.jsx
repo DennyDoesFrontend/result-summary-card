@@ -18,14 +18,14 @@ function App() {
       textColor: "#ffb01f"
     },
     {
-      imageUrl: "../public/assets/images/icon-verbal.svg",
+      imageUrl: "../public/assets/icon-verbal.svg",
       text: "Verbal",
       value: 61,
       color: "#00bd9110",
       textColor: "#00bd91"
     },
     {
-      imageUrl: "../public/assets/images/icon-visual.svg",
+      imageUrl: "../public/assets/icon-visual.svg",
       text: "Visual",
       value: 73,
       color: "#1125d410",
